@@ -2,7 +2,7 @@
     "year": "1987",
     "serverAddress": "departpowerinternal",
     "serverName": "Hazard Intel. Ranger Network",
-    "iconName": "config/network/scp/dpm.png",
+    "iconName": "config/network/scp/scp.png",
     "terminalID": "Mobile-48",
     "defaultUser": {
         "userId": "user",
