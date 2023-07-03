@@ -1,0 +1,13 @@
+{
+    "year": "1987",
+    "serverAddress": "departpowerinternal",
+    "serverName": "Hazard Intel. Ranger Network",
+    "iconName": "dpm.png",
+    "terminalID": "Mobile-48",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "anonymous"
+    },
+    "randomSeed": true
+}
