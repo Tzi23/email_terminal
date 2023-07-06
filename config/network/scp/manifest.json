@@ -2,7 +2,7 @@
     "year": "1987",
     "serverAddress": "departpowerinternal",
     "serverName": "Hazard Intel. Ranger Network",
-    "iconName": "scp.png",
+    "iconName": "SCP-icon.png",
     "terminalID": "Mobile-48",
     "defaultUser": {
         "userId": "user",
